@@ -1,0 +1,27 @@
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    width: 100%;
+    height: 40px;
+    border: none;
+    background-color: #FF9E00;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: #f9b87e;
+}
+
+a {
+    text-decoration: none;
+    width: 100%;
+}
+
+a.active > button {
+    background-color: white;
+    color: #C7C7C7;
+    border: 1px solid #C7C7C7;
+}

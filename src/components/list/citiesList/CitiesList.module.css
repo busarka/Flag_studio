@@ -1,0 +1,27 @@
+h3 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #FF9E00;
+    margin: 0;
+    padding: 0;
+}
+
+.officeContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border: solid 1px #C7C7C7;
+}
+
+.officeContainer:first-child {
+    margin-top: 10px;
+}
+
+.showButton {
+    display: flex; 
+    justify-content:flex-start;
+    padding: 0;
+    border: none;
+    background: none;
+    cursors: pointer;
+}

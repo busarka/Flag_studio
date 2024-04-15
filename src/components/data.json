@@ -1,0 +1,128 @@
+[
+    {
+        "country": "Россия",
+        "cities": [{
+            "city": "Екатеринбург",
+            "offices": [{
+                "office": "Екб1" ,
+                    "name": "Иванов Иван Иванович",
+                    "phone": "+79530000001",
+                    "email": "ivanov@mail.ru"
+                },
+                {"office": "Екб2",
+                    "name": "Петров Петр Петрович",
+                    "phone": "+79530000002",
+                    "email": "petrov@mail.ru"
+                }]
+                },{
+            "city": "Москва",
+            "offices": [{
+                "office": "Мск1",
+                "name": "Вяткин Вячеслав Вячеславович",
+                "phone": "+79530000003",
+                "email": "vyatkin@mail.ru"
+                },{
+                    "office": "Мск2",
+                    "name": "Зимина Зоя Захаровна",
+                    "phone": "+79530000004",
+                    "email": "zimina@mail.ru"
+                }
+                ]
+        },{
+            "city": "Новосибирск",
+            "offices": [{
+                "office": "Нвсбрск1",
+                "name": "Акимова Виктория Артёмовна",
+                "phone": "+795300000011",
+                "email": "akimova@mail.ru"
+            },{
+                "office": "Нвсбрск2",
+                "name": "Григорьев Тимофей Никитич",
+                "phone": "+795300000012",
+                "email": "grigorev@mail.ru"
+            }]
+        },{
+            "city": "Казань",
+            "offices": [{
+                "office": "Кзн1",
+                "name": "Савина Мирослава Дмитриевна",
+                "phone": "+79530000013",
+                "email": "savina@mail.ru"
+            }]
+        },{
+            "city": "Пермь",
+            "offices": [{
+                "office": "Пермь1",
+                "name": "Чернов Фёдор Маркович",
+                "phone": "+79530000051",
+                "email": "chernov@mail.ru"
+            },{
+                "office": "Пермь2",
+                "name": "Русанов Константин Максимович",
+                "phone": "+79530000032",
+                "email": "rusanov@mail.ru"
+            }]
+        }
+        ]
+    },
+    {
+        "country": "Белоруссия",
+        "cities": [{
+            "city": "Минск",
+            "offices": [{
+                "office": "Минск1",
+                "name": "Степанова Виктория Кирилловна",
+                "phone": "+795300000099",
+                "email": "stepanova@mail.ru"
+            },{
+                "office": "Минск2",
+                "name": "Круглов Алексей Михайлович",
+                "phone": "+795300000092",
+                "email": "kruglov@mail.ru"
+            }]
+        },{
+            "city": "Гродно",
+            "offices": [{
+                "office": "Гродно1",
+                "name": "Соколова Анастасия Григорьевна",
+                "phone": "+795300000066",
+                "email": "sokolova@mail.ru"
+            }]
+        },{
+            "city": "Могилев",
+            "offices": [{
+                "office": "Могилев1",
+                "name": "Козлова Виктория Данииловна",
+                "phone": "+795300000077",
+                "email": "kozlova@mail.ru"
+            },{
+                "office": "Могилев2",
+                "name": "Никитина Елизавета Фёдоровна",
+                "phone": "+795300000082",
+                "email": "nikitina@mail.ru"
+            }]
+        },{
+            "city": "Брест",
+            "offices": [{
+                "office": "Брест1",
+                "name": "Попов Лев Максимович",
+                "phone": "+795300001111",
+                "email": "popov@mail.ru"
+            }]
+        },{
+            "city": "Гомель",
+            "offices": [{
+                "office": "Гомель1",
+                "name": "Софронова Арина Артёмовна",
+                "phone": "+795300000131",
+                "email": "sofronova@mail.ru"
+            },{
+                "office": "Гомель2",
+                "name": "Журавлев Захар Георгиевич",
+                "phone": "+795300000192",
+                "email": "juravlev@mail.ru"
+            }]
+        }
+        ]
+    }
+]

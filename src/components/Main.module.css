@@ -1,0 +1,29 @@
+body,html {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+  /* height: 100%; */
+}
+
+.wrapper {
+  display: flex;
+  min-height: calc(100vh - 80px);
+  /* height: 100vh; */
+}
+
+.main {
+  display: flex;
+  margin: 40px 30px 40px 30px;  
+  width: 100%;
+  min-height: 100vh;
+  box-shadow: 1px 1px 4px;
+}
+
+.mapcontainer {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
