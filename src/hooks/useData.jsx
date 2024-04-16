@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { getData } from '../components/api'
+import { getData } from '../api/api'
 
 export default function useData() {
     const [data, setData] = useState()

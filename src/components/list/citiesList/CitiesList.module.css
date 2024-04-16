@@ -19,9 +19,15 @@ h3 {
 
 .showButton {
     display: flex; 
-    justify-content:flex-start;
+    justify-content: space-between;
     padding: 0;
     border: none;
     background: none;
-    cursors: pointer;
+    cursor: pointer;
+}
+
+.span {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
 }

@@ -5,14 +5,16 @@
             "city": "Екатеринбург",
             "offices": [{
                 "office": "Екб1" ,
-                    "name": "Иванов Иван Иванович",
-                    "phone": "+79530000001",
-                    "email": "ivanov@mail.ru"
+                "name": "Иванов Иван Иванович",
+                "phone": "+79530000001",
+                "email": "ivanov@mail.ru",
+                "address": [56.861620, 60.592315]
                 },
                 {"office": "Екб2",
-                    "name": "Петров Петр Петрович",
-                    "phone": "+79530000002",
-                    "email": "petrov@mail.ru"
+                "name": "Петров Петр Петрович",
+                "phone": "+79530000002",
+                "email": "petrov@mail.ru",
+                "address": [56.891885, 60.618751]
                 }]
                 },{
             "city": "Москва",
@@ -20,12 +22,14 @@
                 "office": "Мск1",
                 "name": "Вяткин Вячеслав Вячеславович",
                 "phone": "+79530000003",
-                "email": "vyatkin@mail.ru"
+                "email": "vyatkin@mail.ru",
+                "address": [55.785360, 37.720535]
                 },{
-                    "office": "Мск2",
-                    "name": "Зимина Зоя Захаровна",
-                    "phone": "+79530000004",
-                    "email": "zimina@mail.ru"
+                "office": "Мск2",
+                "name": "Зимина Зоя Захаровна",
+                "phone": "+79530000004",
+                "email": "zimina@mail.ru",
+                "address": [55.793249, 37.402848]
                 }
                 ]
         },{
@@ -34,12 +38,14 @@
                 "office": "Нвсбрск1",
                 "name": "Акимова Виктория Артёмовна",
                 "phone": "+795300000011",
-                "email": "akimova@mail.ru"
+                "email": "akimova@mail.ru",
+                "address": [55.053962, 82.968210]
             },{
                 "office": "Нвсбрск2",
                 "name": "Григорьев Тимофей Никитич",
                 "phone": "+795300000012",
-                "email": "grigorev@mail.ru"
+                "email": "grigorev@mail.ru",
+                "address": [55.037882, 82.921147]
             }]
         },{
             "city": "Казань",
@@ -47,7 +53,8 @@
                 "office": "Кзн1",
                 "name": "Савина Мирослава Дмитриевна",
                 "phone": "+79530000013",
-                "email": "savina@mail.ru"
+                "email": "savina@mail.ru",
+                "address": [55.794194, 49.199004]
             }]
         },{
             "city": "Пермь",
@@ -55,12 +62,8 @@
                 "office": "Пермь1",
                 "name": "Чернов Фёдор Маркович",
                 "phone": "+79530000051",
-                "email": "chernov@mail.ru"
-            },{
-                "office": "Пермь2",
-                "name": "Русанов Константин Максимович",
-                "phone": "+79530000032",
-                "email": "rusanov@mail.ru"
+                "email": "chernov@mail.ru",
+                "address": [58.011276, 56.280347]
             }]
         }
         ]
@@ -73,12 +76,14 @@
                 "office": "Минск1",
                 "name": "Степанова Виктория Кирилловна",
                 "phone": "+795300000099",
-                "email": "stepanova@mail.ru"
+                "email": "stepanova@mail.ru",
+                "address": [53.904424, 27.594630]
             },{
                 "office": "Минск2",
                 "name": "Круглов Алексей Михайлович",
                 "phone": "+795300000092",
-                "email": "kruglov@mail.ru"
+                "email": "kruglov@mail.ru",
+                "address": [53.876511, 27.560688]
             }]
         },{
             "city": "Гродно",
@@ -86,7 +91,8 @@
                 "office": "Гродно1",
                 "name": "Соколова Анастасия Григорьевна",
                 "phone": "+795300000066",
-                "email": "sokolova@mail.ru"
+                "email": "sokolova@mail.ru",
+                "address": [53.692295, 23.822151]
             }]
         },{
             "city": "Могилев",
@@ -94,12 +100,14 @@
                 "office": "Могилев1",
                 "name": "Козлова Виктория Данииловна",
                 "phone": "+795300000077",
-                "email": "kozlova@mail.ru"
+                "email": "kozlova@mail.ru",
+                "address": [53.896727, 30.295669]
             },{
                 "office": "Могилев2",
                 "name": "Никитина Елизавета Фёдоровна",
                 "phone": "+795300000082",
-                "email": "nikitina@mail.ru"
+                "email": "nikitina@mail.ru",
+                "address": [53.878987, 30.356404]
             }]
         },{
             "city": "Брест",
@@ -107,7 +115,8 @@
                 "office": "Брест1",
                 "name": "Попов Лев Максимович",
                 "phone": "+795300001111",
-                "email": "popov@mail.ru"
+                "email": "popov@mail.ru",
+                "address": [52.100062, 23.686694]
             }]
         },{
             "city": "Гомель",
@@ -115,12 +124,14 @@
                 "office": "Гомель1",
                 "name": "Софронова Арина Артёмовна",
                 "phone": "+795300000131",
-                "email": "sofronova@mail.ru"
+                "email": "sofronova@mail.ru",
+                "address": [52.428310, 31.005992]
             },{
                 "office": "Гомель2",
                 "name": "Журавлев Захар Георгиевич",
                 "phone": "+795300000192",
-                "email": "juravlev@mail.ru"
+                "email": "juravlev@mail.ru",
+                "address": [52.428310, 31.005992]
             }]
         }
         ]
